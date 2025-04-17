@@ -1,4 +1,4 @@
-# 🌟 Customer Segmentation
+# 🌟 Customer Segmentation and Decision Strategies
 
 This project aims to **perform customer segmentation** for an e-commerce dataset. The goal is to group customers based on their purchasing behavior to create meaningful customer segments for targeted marketing strategies. 📊💡
 
