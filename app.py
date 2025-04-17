@@ -12,7 +12,7 @@ def load_data():
 
 df = load_data()
 
-st.title("📊 Customer Segmentation & Discount Intelligence")
+st.title("📊 Customer Segmentation & Discount Strategies")
 
 segments = df['Segment'].unique()
 selected_segment = st.sidebar.selectbox("🔍 Select Customer Segment", segments)
